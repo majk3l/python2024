@@ -465,17 +465,17 @@ python my_script.py arg1 arg2 arg3
 ```
 
 
-# ZADANIA do samodzielnego wykonania:
+## ${\color{green}{\textsf{\textbf{ZADANIA do samodzielnego wykonania:}}}}$
 
-1. Zmodyfikuj przykład z parametrami i plikiem ```my_script.py``` tak, aby wypisywał też typ parametrów. Użyj funkcji ```type()```.
+**1.** Zmodyfikuj przykład z parametrami i plikiem ```my_script.py``` tak, aby wypisywał też typ parametrów. Użyj funkcji ```type()```.
 
-2. Napisz prosty skrypt, który przyjmuje jako parametry dwie liczby oraz znak operacji (+, -, *) i wykonuje na nich proste operacje arytmetyczne. Skrypt zapisz pod nazwą arithmetics.py. Do porównywania łańcuchów tekstowych wykorzystaj operator ==. Parametry powinny być oddzielone spacjami. Przykład działania (skrypt uruchomiony z wiersza poleceń):
+**2.** Napisz prosty skrypt, który przyjmuje jako parametry dwie liczby oraz znak operacji (+, -, *) i wykonuje na nich proste operacje arytmetyczne. Skrypt zapisz pod nazwą arithmetics.py. Do porównywania łańcuchów tekstowych wykorzystaj operator ==. Parametry powinny być oddzielone spacjami. Przykład działania (skrypt uruchomiony z wiersza poleceń):
 ```bash 
 arithmetics.py 2 + 4
 6
 ```
 
-3. Napisz skrypt, który policzy ile argumentów podanych przez użytkownika (oddzielonych spacjami) ma 3 lub więcej znaków. Skrypt zapisz pod nazwą arguments.py. Przykład działania:
+**3.** Napisz skrypt, który policzy ile argumentów podanych przez użytkownika (oddzielonych spacjami) ma 3 lub więcej znaków. Skrypt zapisz pod nazwą arguments.py. Przykład działania:
 
 ```bash
 python arguments.py o co chodzi z tym Pythonem
@@ -489,7 +489,7 @@ Pythonem tym chodzi
 ```
 
 
-4. Napisz program quadratic.py do obliczania miejsc zerowych równania kwadratowego. Współczynniki (a, b, c) podawane z wiersza poleceń. Wyjście programu powinno być następujące:
+**4.** Napisz program quadratic.py do obliczania miejsc zerowych równania kwadratowego. Współczynniki (a, b, c) podawane z wiersza poleceń. Wyjście programu powinno być następujące:
 
     pierwsza linia wyjścia: liczba miejsc zerowych
     druga linia wyjścia: miejsca zerowe oddzielone spacją, o ile istnieją.
@@ -502,3 +502,6 @@ python quadratic.py 1 4 3
 -1.0 -3.0
 ```
 
+---
+
+*autor: Marcin Mrukowicz, Michał Kępski (mkepski[at]ur.edu.pl)*
